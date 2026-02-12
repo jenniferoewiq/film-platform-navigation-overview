@@ -1,2 +1,15 @@
 # film-platform-navigation-overview
 该项目用于整理影视类网站平台导航整体概览信息，对首页功能分区方式、内容层级逻辑以及播放页信息区块安排进行系统归档。通过文字记录建立可持续更新的资料库，便于对比不同影视平台在导航规划方面的差异。仓库仅保存公开页面信息，仅供研究与资料整理使用。
+
+影视部落（影视网站记录卡）
+
+站点名称：影视部落
+站点链接：https://www.usacademicwriters.com/
+
+站点类型：影视
+访问情况：可访问
+
+说明：
+本说明用于影视网站索引用途，仅供资料查询。
+
+Site notes: https://jenniferoewiq.github.io/film-platform-navigation-overview/
